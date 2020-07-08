@@ -1,6 +1,5 @@
 ![](https://img1.picmix.com/output/stamp/normal/2/4/2/9/449242_369a1.gif)
-<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
-
+<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
 ![](https://www.fillster.com/images/comments/525c.gif)
 - 🔭 I’m currently working on the [Primer Design System](https://primer.style)
 - 💬 Ask me about: 🌱 plants
