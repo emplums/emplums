@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on the [Primer Design System](https://primer.style)
 - 💬 Ask me about: 🌱 plants
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm modeling a 1987 Toyota Dolphin right now! 🐬
+- ⚡ Fun fact: I'm remodeling a 1987 Toyota Dolphin right now! 🐬
