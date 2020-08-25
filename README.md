@@ -2,8 +2,7 @@
 
 <<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
 
-![](https://www.fillster.com/images/comments/525c.gif)
-- 🔭 I’m currently working on the [Primer Design System](https://primer.style)
+- 🔭 I’m currently working on the [Primer Design System](https://primer.style), specifically on Primer React Components and Primer ViewComponents
 - 💬 Ask me about: 🌱 plants
 - I like to nerd out about: event & experience design, design systems, social justice, vintage recreational vehicles, backpacking/hiking, alternative farming practices
 - 😄 Pronouns: she/her
