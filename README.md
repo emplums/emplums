@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the [Primer Design System](https://primer.style), specifically on Primer React Components and Primer ViewComponents
 - 💬 Ask me about: 🌱 plants
-- I like to nerd out about: event & experience design, design systems, social justice, vintage recreational vehicles, backpacking/hiking, alternative farming practices
+- I like to nerd out about: event & experience design, design systems, social justice, vintage recreational vehicles, backpacking/hiking, alternative farming practices, ford broncos 🐎
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm remodeling a 1987 Toyota Dolphin right now! 🐬
 
